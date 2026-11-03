@@ -4,7 +4,7 @@ A small interactive particle emitter made in C++ with **raylib**. It uses a reus
 
 ## Preview
 
-![Particle System window preview](assets/Animation1.gif)
+![Particle System Demo](assets/particles-demo.gif)
 
 
 ## Features
