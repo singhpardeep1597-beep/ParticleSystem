@@ -2,6 +2,12 @@
 
 A small interactive particle emitter made in C++ with **raylib**. It uses a reusable pool of 1,000 particles to create colorful effects wherever the mouse is held down.
 
+## Preview
+
+![Particle System window preview](assets/particles-demo.gif)
+
+*Still preview frame. Hold the left mouse button in the running application to emit particles.*
+
 ## Features
 
 - A **1,000-particle object pool** instead of allocating particles every frame.
