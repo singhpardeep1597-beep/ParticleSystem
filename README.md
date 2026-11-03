@@ -6,7 +6,6 @@ A small interactive particle emitter made in C++ with **raylib**. It uses a reus
 
 ![Particle System window preview](assets/Animation1.gif)
 
-*Still preview frame. Hold the left mouse button in the running application to emit particles.*
 
 ## Features
 
